@@ -7,7 +7,7 @@
 npm install
 ```
 
-1. **En segundo lugar hay que ejecutar:**
+2. **En segundo lugar hay que ejecutar:**
 ```bash
 npm run dev
 ```
